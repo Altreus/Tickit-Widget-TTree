@@ -1,16 +1,20 @@
 Tickit-Widget-TTree
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+This is a widget for Tickit (currently http://search.cpan.org/~pevans/Tickit-0.04/)
+that displays a browsable file tree. It is named after the old XTree app for
+DOS, except it's for Tickit. Also, tea tree is good for you.
 
-A README file is required for CPAN modules since CPAN extracts the README
-file from a module distribution so that people browsing the archive
-can use it to get an idea of the module's uses. It is usually a good idea
-to provide version information here so that people can decide whether
-fixes for the module are worth downloading.
+Currently it only displays the tree.
 
+TODO
+
+Setup default keys for navigation
+
+Improve performance on large directories
+
+Try to write tests, examples
+
+Provide callback API for file actions, accessors
 
 INSTALLATION
 
